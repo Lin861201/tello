@@ -1,0 +1,56 @@
+ip,192.168.2.111,192.168.2.112,192.168.2.113,192.168.2.114,ms
+cmd,command,command,command,command,8500
+8.5 let's..,takeoff,,,,4000
+,,takeoff,,,2500
+,,,takeoff,,2000
+,,,,takeoff,9000
+26s move you..,jump 0 120 91 59 0 m2 m1,jump 0 120 91 59 0 m3 m2,jump 0 -120 101 59 0  m6 m7,jump 0 -120 101 59 0 m7 m8,7000
+31s,cw 45,cw 45,cw 45,cw 45,3500
+35s,ccw 90,ccw 90,ccw 90,ccw 90,4500
+39s it's,cw 45,cw 45,cw 45,cw 45,3500
+44.5s move wuh..,jump 0 -220 91 99 0 m1 m3,jump 0 -240 91 99 0 m2 m4,jump 0 240 101 99 0 m7 m5,jump 0 230 101 99 0 m8 m6,7000
+54s,cw 45,cw 45,cw 45,cw 45,2500
+,ccw 90,ccw 90,ccw 90,ccw 90,4000
+,cw 45,cw 45,cw 45,cw 45,2500
+61s let's..,jump 0 120 91 59 0 m3 m2,jump 0 120 91 59 0 m4 m3,jump 0 -120 101 59 0 m5 m6,jump 0 -120 101 59 0 m6 m7,5000
+66 you,cw 360,cw 360,cw 360,cw 360,8000
+72s flip you..,jump 0 0 91 39 0 m2 m2,jump 0 0 91 39 0 m3 m3,jump 0 0 101 39 0 m6 m6,jump 0 0 101 39 0 m7 m7,5000
+80s you,flip l,,,,1333
+,,,flip l,,1333
+,,flip l,,,1334
+83s,,,,flip l,2000
+,right 20,right 30,right 40,right 20,2000
+,jump 0 0 91 39 0 m2 m2,jump 0 0 91 39 0 m3 m3,jump 0 0 101 39 0 m6 m6,jump 0 0 101 39 0 m7 m7,4000
+88s flip same,,,,flip r,1333
+,,flip r,,,1333
+,,,flip r,,1334
+,flip r,,,,3000
+,left 20,left 20,left 20,left 20,2000
+,jump 0 0 91 39 0 m2 m2,jump 0 0 91 39 0 m3 m3,jump 0 0 101 39 0 m6 m6,jump 0 0 101 39 0 m7 m7,7000
+96s,flip l,flip r,flip l,flip r,3000
+ ,flip r,flip l,flip r,flip l,3000
+,left 60,right 90,left 80,right 40,4000
+flip in flower,flip r,flip l,flip r,flip l,3000
+,jump 0 0 91 39 0 m2 m2,jump 0 0 91 39 0 m3 m3,jump 0 0 101 39 0 m6 m6,jump 0 0 101 39 0 m7 m7,7000
+,flip l,flip r,flip l,flip r,3000
+,right 40,left 40,right 40,left 40,2000
+102s ,jump 0 0 91 39 0 m2 m2,jump 0 0 91 39 0 m3 m3,jump 0 0 101 39 0 m6 m6,jump 0 0 101 39 0 m7 m7,7000
+124s,up 20,up 20,down 30,down 30,7000
+,jump 0 120 61 49 0 m2 m1,jump 0 -120 61 49 0 m3 m4,,,5000
+,jump 0 -120 61 49 0 m1 m2,jump 0 120 61 49 0 m4 m3,jump 0 120 101 49 0 m6 m5,jump 0 -120 101 49 0 m7 m8,7000
+,jump 0 120 101 49 0 m2 m1,jump 0 -120 101 49 0 m3 m4,jump 0 -120 61 49 0 m5 m6,jump 0 120 61 49 0 m8 m7,7000
+,jump 0 -120 61 49 0 m1 m2,jump 0 120 61 49 0 m4 m3,jump 0 120 101 49 0 m6 m5,jump 0 -120 101 49 0 m7 m8,7000
+,jump -120 0 101 49 0 m2 m6,jump -120 0 101 49 0 m3 m7,jump 120 0 61 49 0 m5 m1,jump 120 0 61 49 0 m8 m4,7000
+,jump 0 120 61 49 0 m6 m5,jump 0 -120 61 49 0 m7 m8,jump 0 -120 101 49 0 m1 m2,jump 0 120 101 49 0 m4 m3,7000
+,jump 120 -120 121 49 0 m5 m2,jump 120 120 121 49 0 m8 m3,jump -120 120 21 49 0 m2 m5,jump -120 -120 21 49 0 m3 m8,7000
+,land,land,land,land,5000
+137s,land,land,land,land,5000
+,,,,,
+,,,,,
+149s let's,,,,,
+,,,,,
+153s you,,,,,
+157s just,,,,,
+,,,,,
+166s you,,,,,
+183s,,,,,

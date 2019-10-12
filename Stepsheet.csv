@@ -1,0 +1,16 @@
+ip,192.168.43.249,192.168.43.103
+0,command,command
+0.5,mon,mon
+1,takeoff,
+3,,takeoff
+13,go 0 0 100 100 m2,go 0 0 100 100 m3
+19,cw 45,ccw 45
+23,ccw 45,cw 45
+27,go 0 0 100 100 m2,go 0 0 100 100 m3
+34,go 0 0 50 100 m2,jump -50 0 100 100 0 m3 m1
+41,jump 50 -50 50 100 0 m2 m3,go 0 0 50 100 m1
+48,go 0 0 50 100 m3,jump 50 50 100 100 0 m1 m4
+55,go 0 0 100 100 m3,go 0 0 100 100 m4
+62,flip b,flip b
+70,land,land
+end,,
